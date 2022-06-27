@@ -1,0 +1,10 @@
+project: Machine Maker
+task: engine status: todo assignee: Edgar Hovsepyan deadline: 01/19/2023
+task: bricker status: todo assignee: Ashot Xandalyan deadline: 03/09/2022
+task: maincpp status: in progress assignee: Abgar Trumyan deadline: 03/09/2022
+
+project: Decoder
+task: transistors status: in review assignee: Jojo Malik deadline: 11/09/2022
+task: bus status: done assignee: Dramin Bake deadline: 06/23/2022
+
+end
